@@ -1,4 +1,4 @@
-package Excercises.primeNumber;
+package excercises.primeNumber;
 
 public class PrimeNumber {
 
@@ -6,7 +6,7 @@ public class PrimeNumber {
      * the method will print if the number is, or is not a prime number
      * @param number the number to be checked
      */
-    public static void primeNumber(int number) {
+    public static boolean primeNumber(int number) {
         boolean isPrime = true;
         if (number > 1) {
             int sqnumber = (int) Math.sqrt(number);
@@ -20,11 +20,6 @@ public class PrimeNumber {
         if (number == 1) {
             isPrime = false;
         }
-        System.out.print(number);
-        if (isPrime) {
-            System.out.println(" is a prime number" );
-        }else{
-            System.out.println(" is NOT a prime number" );
-        }
+        return isPrime;
     }
 }

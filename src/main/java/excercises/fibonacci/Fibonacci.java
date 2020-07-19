@@ -1,4 +1,6 @@
-package Excercises.fibonacci;
+package excercises.fibonacci;
+
+import exceptions.ExcerciseException;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,13 +13,14 @@ public class Fibonacci {
      * -The number must be postive
      * @param number the total number that the method will print.
      */
-    public static void fibonacci(int number) {
+    public static List<Integer> fibonacci(int number) throws ExcerciseException {
         List<Integer> fibonacciList = new ArrayList<Integer>();
         int lastNumber = 0;
         int actualNumber = 1;
         int nextNumber;
         fibonacciList.add(lastNumber);
         fibonacciList.add(actualNumber);
+        List<Integer> fibonacciFinalList=new ArrayList<>();
         for (int i = 0; i < (number - 2); i++) {
             nextNumber = actualNumber + lastNumber;
             lastNumber = actualNumber;
@@ -27,15 +30,15 @@ public class Fibonacci {
 
         if(fibonacciList.size()<number){
             for (int i = 0; i < fibonacciList.size(); i++) {
-                System.out.println((i + 1) + ": " + fibonacciList.get(i));
+                fibonacciFinalList.add(fibonacciList.get(i));
             }
         }else if(number>0){
             for (int i = 0; i < number; i++) {
-                System.out.println((i + 1) + ": " + fibonacciList.get(i));
+                fibonacciFinalList.add(fibonacciList.get(i));
             }
         }else {
-            System.err.println("the number must be positive");
+            throw new ExcerciseException("the number must be positive");
         }
-
+        return fibonacciFinalList;
     }
 }

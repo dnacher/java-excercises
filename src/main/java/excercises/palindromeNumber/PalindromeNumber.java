@@ -1,4 +1,4 @@
-package Excercises.palindromeNumber;
+package excercises.palindromeNumber;
 
 public class PalindromeNumber {
 

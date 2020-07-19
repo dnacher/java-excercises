@@ -1,14 +1,15 @@
 package view;
 
-import Excercises.fibonacci.Fibonacci;
-import Excercises.palindromeNumber.PalindromeNumber;
-import Excercises.palindromeWord.PalindromeWord;
-import Excercises.primeNumber.PrimeNumber;
+import exceptions.ExcerciseException;
+import excercises.fibonacci.Fibonacci;
+import excercises.palindromeNumber.PalindromeNumber;
+import excercises.palindromeWord.PalindromeWord;
+import excercises.primeNumber.PrimeNumber;
 
+import java.util.List;
 import java.util.Scanner;
 
 public class MainView  extends View{
-
 
     public MainView(String message) {
         super(message);
@@ -41,7 +42,13 @@ public class MainView  extends View{
         System.out.println("please type a number to print this number of fibonacci array");
         Scanner sc2 = new Scanner(System.in);
         int number= sc2.nextInt();
-        Fibonacci.fibonacci(number);
+        try {
+            for(Integer i: Fibonacci.fibonacci(number)){
+                System.out.println(i);
+            }
+        }catch (ExcerciseException e){
+            System.out.println(e.getMessage());
+        }
     }
 
     public void palindrome(){
@@ -60,7 +67,11 @@ public class MainView  extends View{
         System.out.println("please type a number to check if is prime or not");
         Scanner sc2 = new Scanner(System.in);
         int number= sc2.nextInt();
-        PrimeNumber.primeNumber(number);
+        if(PrimeNumber.primeNumber(number)){
+            System.out.println(number + " is a prime number");
+        }else{
+            System.out.println(number + " is NOT a prime number");
+        }
     }
 
     public void palindromeNumber(){
