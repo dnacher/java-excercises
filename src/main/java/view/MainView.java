@@ -1,6 +1,7 @@
 package view;
 
 import Excercises.fibonacci.Fibonacci;
+import Excercises.palindromeNumber.PalindromeNumber;
 import Excercises.palindromeWord.PalindromeWord;
 import Excercises.primeNumber.PrimeNumber;
 
@@ -26,6 +27,9 @@ public class MainView  extends View{
             case "C":
                 this.primeNumber();
                 break;
+            case "D":
+                this.palindromeNumber();
+                break;
             default:
                 System.out.println("\n*** Invalid selection *** Try again");
                 break;
@@ -46,11 +50,10 @@ public class MainView  extends View{
         String word= sc2.nextLine();
         if(PalindromeWord.isPalindrome(word)){
             System.out.println(word + " is a palindrome word");
-            System.out.println("");
         }else{
             System.out.println(word + " is NOT a palindrome word");
-            System.out.println("");
         }
+        System.out.println("");
     }
 
     public void primeNumber(){
@@ -58,5 +61,17 @@ public class MainView  extends View{
         Scanner sc2 = new Scanner(System.in);
         int number= sc2.nextInt();
         PrimeNumber.primeNumber(number);
+    }
+
+    public void palindromeNumber(){
+        System.out.println("please type a number to check if is palindrome or not");
+        Scanner sc2 = new Scanner(System.in);
+        int number= sc2.nextInt();
+        if(PalindromeNumber.palindromeNumber(number)){
+            System.out.println(number + " is a palindrome number");
+        }else{
+            System.out.println(number + " is NOT a palindrome number");
+        }
+        System.out.println("");
     }
 }

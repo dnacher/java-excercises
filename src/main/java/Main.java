@@ -9,6 +9,7 @@ public class Main {
                 "A - Fibonacci\n" +
                 "B - Palindrome word\n" +
                 "C - Prime number\n" +
+                "D - Palindrome number\n" +
                 "Q - Exit program\n");
         mainView.display();
     }

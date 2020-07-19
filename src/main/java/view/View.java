@@ -39,6 +39,4 @@ public abstract class View implements ViewInterface {
             done = this.doAction(value);
         } while (!done); // exit the view when done == true
     }
-
-
 }
