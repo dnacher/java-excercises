@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SpringJavaFXIntegration">
+    <output-path>$PROJECT_DIR$/../Spring-Boot-JavaFX-Integracion/src/artifacts/SpringJavaFXIntegration</output-path>
+    <root id="root">
+      <element id="archive" name="SpringJavaFXIntegration.jar">
+        <element id="module-output" name="SpringJavaFXIntegration" />
+      </element>
+    </root>
+  </artifact>
+</component>
