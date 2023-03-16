@@ -6,8 +6,10 @@
 Excercises:
 
 - Alternating characters
+- Caesar Cipher
 - Camel case
 - Fibonacci
+- Hacker rank string
 - Mars exploration
 - palindrome number
 - Palindrome word
@@ -15,5 +17,6 @@ Excercises:
 - Prime number
 - Sales by match
 - Strong password
+- Super reduce string
 - Two characters
 - Uruguayan Id
