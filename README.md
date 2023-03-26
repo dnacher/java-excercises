@@ -6,6 +6,7 @@
 Excercises:
 
 - Alternating characters
+- Beautiful Binary String
 - Caesar Cipher
 - Camel case
 - Fibonacci
@@ -20,3 +21,4 @@ Excercises:
 - Super reduce string
 - Two characters
 - Uruguayan Id
+- Weighted Uniform Strings
