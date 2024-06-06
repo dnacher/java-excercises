@@ -9,7 +9,10 @@ Excercises:
 - Beautiful Binary String
 - Caesar Cipher
 - Camel case
+- Chocolate Feast
+- Cut the stick
 - Fibonacci
+- Find digits
 - Hacker rank string
 - Mars exploration
 - palindrome number
@@ -17,8 +20,11 @@ Excercises:
 - Pangram
 - Prime number
 - Sales by match
+- Separate the numbers
+- Sherlock and Squares
 - Strong password
 - Super reduce string
 - Two characters
+- Two Strings
 - Uruguayan Id
 - Weighted Uniform Strings
