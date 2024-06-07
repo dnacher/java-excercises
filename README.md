@@ -14,6 +14,7 @@ Excercises:
 - Fibonacci
 - Find digits
 - Hacker rank string
+- LibraryFine
 - Mars exploration
 - palindrome number
 - Palindrome word
