@@ -16,12 +16,13 @@ Excercises:
 - Hacker rank string
 - LibraryFine
 - Mars exploration
-- palindrome number
+- Palindrome number
 - Palindrome word
 - Pangram
 - Prime number
 - Sales by match
 - Separate the numbers
+- Service Lane
 - Sherlock and Squares
 - Strong password
 - Super reduce string

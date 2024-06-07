@@ -1,6 +1,5 @@
-package excercises.ChocolateFeast;
+package excercises.chocolateFeast;
 
-import excercises.chocolateFeast.ChocolateFeast;
 import org.testng.annotations.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
