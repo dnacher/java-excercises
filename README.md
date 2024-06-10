@@ -15,6 +15,7 @@ Excercises:
 - Find digits
 - Hacker rank string
 - LibraryFine
+- Lisa's Workbook
 - Mars exploration
 - Palindrome number
 - Palindrome word
