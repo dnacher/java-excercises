@@ -11,6 +11,7 @@ Excercises:
 - Camel case
 - Chocolate Feast
 - Cut the stick
+- Fair Rations
 - Fibonacci
 - Find digits
 - FlatLandSpaceStation
