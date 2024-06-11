@@ -2,8 +2,6 @@ package excercises.flatLandSpaceStation;
 
 import org.testng.annotations.Test;
 
-import java.util.Arrays;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**

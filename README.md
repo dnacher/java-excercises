@@ -13,6 +13,7 @@ Excercises:
 - Cut the stick
 - Fibonacci
 - Find digits
+- FlatLandSpaceStation
 - Hacker rank string
 - LibraryFine
 - Lisa's Workbook
