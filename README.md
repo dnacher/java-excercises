@@ -9,6 +9,7 @@ Excercises:
 - Beautiful Binary String
 - Caesar Cipher
 - Camel case
+- CavityMap
 - Chocolate Feast
 - Cut the stick
 - Fair Rations
