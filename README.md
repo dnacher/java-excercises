@@ -16,9 +16,12 @@ Excercises:
 - Fibonacci
 - Find digits
 - FlatLandSpaceStation
+- Grid search
 - Hacker rank string
+- Happy Ladybugs
 - LibraryFine
 - Lisa's Workbook
+- Manassa and stones
 - Mars exploration
 - Palindrome number
 - Palindrome word
