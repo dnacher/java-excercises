@@ -21,6 +21,7 @@ Excercises:
 - Happy Ladybugs
 - LibraryFine
 - Lisa's Workbook
+- Longest cluster
 - Manassa and stones
 - Mars exploration
 - Palindrome number
