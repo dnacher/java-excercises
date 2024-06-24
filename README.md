@@ -19,6 +19,7 @@ Excercises:
 - Grid search
 - Hacker rank string
 - Happy Ladybugs
+- Jumping on the clouds
 - LibraryFine
 - Lisa's Workbook
 - Longest cluster
@@ -30,10 +31,13 @@ Excercises:
 - Prime number
 - Sales by match
 - Separate the numbers
+- Server tracker
 - Service Lane
 - Sherlock and Squares
+- Strange counter
 - Strong password
 - Super reduce string
+- Time words
 - Two characters
 - Two Strings
 - Uruguayan Id
