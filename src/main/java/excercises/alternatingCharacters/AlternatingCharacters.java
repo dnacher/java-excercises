@@ -9,11 +9,14 @@ import java.util.stream.IntStream;
  * Daniel Nacher
  * 2023-03-13
  *
- * A Shashank le gustan las cadenas donde los caracteres consecutivos son diferentes. Por ejemplo, le gusta , mientras que  no le gusta. Dada una cadena que solamente contiene caracteres  y , él quiere cambiarla a una cadena que le guste. Para hacerlo, solo se le permite borrar los caracteres en la cadena.
+ * A Shashank le gustan las cadenas donde los caracteres consecutivos son diferentes. Por ejemplo, le gusta , mientras
+ * que  no le gusta. Dada una cadena que solamente contiene caracteres  y , él quiere cambiarla a una cadena que le guste.
+ * Para hacerlo, solo se le permite borrar los caracteres en la cadena.
  *
  * Tu tarea es encontrar la mínima cantidad requerida de borrados.
  *
- * Formato de Entrada La primera linea contiene un enter  que quiere decir el número de casos de prueba. Luego siguen  lineas , con una cadena en cada linea.
+ * Formato de Entrada La primera linea contiene un enter  que quiere decir el número de casos de prueba.
+ * Luego siguen  lineas , con una cadena en cada linea.
  *
  * Formato de Salida Imprimie la mínima cantidad requerida de pasos en cada caso de prueba.
  *
