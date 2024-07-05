@@ -5,6 +5,7 @@
 ### Adding test for each excercise.
 Excercises:
 
+- Almost sorted
 - Alternating characters
 - Beautiful Binary String
 - Caesar Cipher
