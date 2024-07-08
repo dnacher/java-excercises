@@ -26,6 +26,9 @@ Excercises:
 - Longest cluster
 - Manassa and stones
 - Mars exploration
+- Minimum Distances
+- Modified Kaprekar Numbers
+- Non Divisible Subset
 - Palindrome number
 - Palindrome word
 - Pangram
