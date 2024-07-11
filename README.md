@@ -45,4 +45,5 @@ Excercises:
 - Two characters
 - Two Strings
 - Uruguayan Id
+- Valid String
 - Weighted Uniform Strings
