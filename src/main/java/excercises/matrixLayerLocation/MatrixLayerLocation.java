@@ -82,15 +82,6 @@ public class MatrixLayerLocation {
             finalMatrixRotated.add(rotateList);
         }
 
-//        printList(matrixToRotate);
-//
-//        System.out.println("++++++");
-//
-//        printList(finalMatrixRotated);
-//
-//        System.out.println("++++++");
-
-
         if(!areMatricesEqual(matrixToRotate, finalMatrixRotated)) {
             mapInt(matrixToRotate,finalMatrixRotated,map, matrix.size(), matrix.get(0).size());
         }
