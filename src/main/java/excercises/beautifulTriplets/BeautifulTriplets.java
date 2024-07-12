@@ -5,6 +5,12 @@ import java.util.List;
 /**
  * Daniel Nacher
  * 2024-07-12
+ *
+ * Given a sequence of integers a, a triplet (a[i], a[j], a[k]) is beautiful if:
+ * i < j < k
+ * a[j] - a[i] = a[k] - a[j] = d
+ *
+ * Given an increasing sequenc of integers and the value of d, count the number of beautiful triplets in the sequence.
  */
 public class BeautifulTriplets {
 
