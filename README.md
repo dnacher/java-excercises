@@ -8,6 +8,7 @@ Excercises:
 - Almost sorted
 - Alternating characters
 - Beautiful Binary String
+- Beautiful Triplets
 - Caesar Cipher
 - Camel case
 - CavityMap
@@ -26,6 +27,7 @@ Excercises:
 - Longest cluster
 - Manassa and stones
 - Mars exploration
+- Matrix Layer Location (NOT OPTIMIZED)
 - Minimum Distances
 - Modified Kaprekar Numbers
 - Non Divisible Subset
