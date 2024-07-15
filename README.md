@@ -14,6 +14,7 @@ Excercises:
 - CavityMap
 - Chocolate Feast
 - Cut the stick
+- Equalize The Array
 - Fair Rations
 - Fibonacci
 - Find digits
