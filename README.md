@@ -5,6 +5,7 @@
 ### Adding test for each excercise.
 Excercises:
 
+- ACM_ICPC_Team
 - Almost sorted
 - Alternating characters
 - Beautiful Binary String
@@ -36,6 +37,7 @@ Excercises:
 - Palindrome word
 - Pangram
 - Prime number
+- Queens Attack II
 - Sales by match
 - Separate the numbers
 - Server tracker
