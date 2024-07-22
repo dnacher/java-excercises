@@ -33,6 +33,11 @@ public class ACM_ICPC_TeamTest {
         )));
     }
 
+    @Test
+    public void test3() {
+        ACM_ICPC_Team.getSmallestAndLargest("welcometojava", 3);
+    }
+
 
 
 }

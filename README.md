@@ -1,6 +1,10 @@
 ## Java-excercises
 
-### This project is to practice some excercise that I found on internet.
+1. Excercises: package with different excercises from hacker rank and other pages.
+2. Pattern Design: package with definition of different package design with some examples. (Check the readme for this section)
+3. Topics: different topics for Java such as CompletableFuture and ForkJoinPool (Check the readme for this section)
+
+### This Package is to practice some excercise that I found on internet.
 ### I will separate each excercise in different packages and I will try to create a javadoc for each method to explain what I did.
 ### Adding test for each excercise.
 Excercises:
