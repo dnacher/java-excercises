@@ -12,52 +12,56 @@ Excercises:
 1. ACM_ICPC_Team
 2. Almost sorted
 3. Alternating characters
-4. Beautiful Binary String
-5. Beautiful Triplets
-6. Caesar Cipher
-7. Camel case
-8. CavityMap
-9. Chocolate Feast
-10. Cut the stick
-11. Equalize The Array
-12. Fair Rations
-13. Fibonacci
-14. Find digits
-15. FlatLandSpaceStation
-16. Grid search
-17. Hacker rank string
-18. Happy Ladybugs
-19. Hourglass
-20. Insertion Sort 2
-21. Jumping on the clouds
-22. Jumping on the clouds 2
-23. LibraryFine
-24. Lisa's Workbook
-25. Longest cluster
-26. Manassa and stones
-27. MarkAndToys
-28. Mars exploration 
-29. Matrix Layer Location (NOT OPTIMIZED)
-30. Minimum Distances
-31. Modified Kaprekar Numbers
-32. Non Divisible Subset
-33. Palindrome number
-34. Palindrome word
-35. Pangram
-36. Prime number
-37. Queens Attack II
-38. Sales by match
-39. Separate the numbers
-40. Server tracker
-41. Service Lane
-42. Sherlock and Squares
-43. SparseArrays
-44. Strange counter
-45. Strong password
-46. Super reduce string
-47. Time words
-48. Two characters
-49. Two Strings
-50. Uruguayan Id
-51. Valid String
-52. Weighted Uniform Strings
+4. Append and delete
+5. Beautiful Binary String
+6. Beautiful Triplets
+7. Caesar Cipher
+8. Camel case
+9. CavityMap
+10. Chocolate Feast
+11. Cut the stick
+12. Equalize The Array
+13. Fair Rations
+14. Fibonacci
+15. Find digits
+16. FlatLandSpaceStation
+17. Grid search
+18. Hacker rank string
+19. Halloween sale
+20. Happy Ladybugs
+21. Hourglass
+22. Insertion Sort 2
+23. Jumping on the clouds
+24. Jumping on the clouds 2
+25. LibraryFine
+26. Lisa's Workbook
+27. Longest cluster
+28. Manassa and stones
+29. Mark and Toys
+30. Mars exploration 
+31. Matrix Layer Location (NOT OPTIMIZED)
+32. Minimum Distances
+33. Modified Kaprekar Numbers
+34. Non Divisible Subset
+35. Palindrome number
+36. Palindrome word
+37. Pangram
+38. Prime number
+39. Queens Attack II
+40. Repeated string
+41. Sales by match
+42. Separate the numbers
+43. Server tracker
+44. Service Lane
+45. Sherlock and Squares
+46. SparseArrays
+47. Strange counter
+48. Strong password
+49. Super reduce string
+50. taumand Bday
+51. Time words
+52. Two characters
+53. Two Strings
+54. Uruguayan Id
+55. Valid String
+56. Weighted Uniform Strings
