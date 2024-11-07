@@ -27,11 +27,15 @@ Excercises:
 - Grid search
 - Hacker rank string
 - Happy Ladybugs
+- Hourglass
+- Insertion Sort 2
 - Jumping on the clouds
+- Jumping on the clouds 2
 - LibraryFine
 - Lisa's Workbook
 - Longest cluster
 - Manassa and stones
+- MarkAndToys
 - Mars exploration
 - Matrix Layer Location (NOT OPTIMIZED)
 - Minimum Distances
@@ -47,6 +51,7 @@ Excercises:
 - Server tracker
 - Service Lane
 - Sherlock and Squares
+- SparseArrays
 - Strange counter
 - Strong password
 - Super reduce string
