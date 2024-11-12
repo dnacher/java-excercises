@@ -47,21 +47,22 @@ Excercises:
 36. Palindrome word
 37. Pangram
 38. Prime number
-39. Queens Attack II
-40. Repeated string
-41. Sales by match
-42. Separate the numbers
-43. Server tracker
-44. Service Lane
-45. Sherlock and Squares
-46. SparseArrays
-47. Strange counter
-48. Strong password
-49. Super reduce string
-50. taumand Bday
-51. Time words
-52. Two characters
-53. Two Strings
-54. Uruguayan Id
-55. Valid String
-56. Weighted Uniform Strings
+39. Priyanka and toys
+40. Queens Attack II
+41. Repeated string
+42. Sales by match
+43. Separate the numbers
+44. Server tracker
+45. Service Lane
+46. Sherlock and Squares
+47. SparseArrays
+48. Strange counter
+49. Strong password
+50. Super reduce string
+51. taumand Bday
+52. Time words
+53. Two characters
+54. Two Strings
+55. Uruguayan Id
+56. Valid String
+57. Weighted Uniform Strings
