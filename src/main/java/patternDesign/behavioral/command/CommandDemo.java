@@ -16,6 +16,7 @@ package patternDesign.behavioral.command;
  *
  * Broker object uses command pattern to identify which object will execute which command based on type of command.
  * CommandPatternDemo, our demo class will use Broker class to demonstrate command pattern.
+ *
  */
 public class CommandDemo {
 
