@@ -33,36 +33,38 @@ Excercises:
 22. Insertion Sort 2
 23. Jumping on the clouds
 24. Jumping on the clouds 2
-25. LibraryFine
-26. Lisa's Workbook
-27. Longest cluster
-28. Manassa and stones
-29. Mark and Toys
-30. Mars exploration 
-31. Matrix Layer Location (NOT OPTIMIZED)
-32. Minimum Distances
-33. Modified Kaprekar Numbers
-34. Non Divisible Subset
-35. Palindrome number
-36. Palindrome word
-37. Pangram
-38. Prime number
-39. Priyanka and toys
-40. Queens Attack II
-41. Repeated string
-42. Sales by match
-43. Separate the numbers
-44. Server tracker
-45. Service Lane
-46. Sherlock and Squares
-47. SparseArrays
-48. Strange counter
-49. Strong password
-50. Super reduce string
-51. taumand Bday
-52. Time words
-53. Two characters
-54. Two Strings
-55. Uruguayan Id
-56. Valid String
-57. Weighted Uniform Strings
+25. Largest Permutation
+26. LibraryFine
+27. Lisa's Workbook
+28. Longest cluster
+29. Manassa and stones
+30. Mark and Toys
+31. Mars exploration 
+32. Matrix Layer Location (NOT OPTIMIZED)
+33. Minimum Distances
+34. Modified Kaprekar Numbers
+35. Non Divisible Subset
+36. Palindrome number
+37. Palindrome word
+38. Pangram
+39. Prime number
+40. Priyanka and toys
+41. Queens Attack II
+42. Repeated string
+43. Sales by match
+44. Separate the numbers
+45. Server tracker
+46. Service Lane
+47. Sherlock and Squares
+48. Sherlock and the beast
+49. SparseArrays
+50. Strange counter
+51. Strong password
+52. Super reduce string
+53. taumand Bday
+54. Time words
+55. Two characters
+56. Two Strings
+57. Uruguayan Id
+58. Valid String
+59. Weighted Uniform Strings
