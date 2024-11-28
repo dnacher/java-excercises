@@ -3,7 +3,7 @@ package topics.regularExpresions;
 import org.testng.annotations.Test;
 import java.util.regex.Pattern;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 /**
  * Daniel Nacher

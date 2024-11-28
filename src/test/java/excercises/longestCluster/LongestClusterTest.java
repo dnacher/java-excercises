@@ -2,7 +2,7 @@ package excercises.longestCluster;
 
 import org.testng.annotations.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 /**
  * Daniel Nacher
