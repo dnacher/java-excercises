@@ -35,3 +35,5 @@ build/
 .vscode/
 *.class
 *.class
+.idea/jarRepositories.xml
+excercises-java.iml
