@@ -1,4 +1,4 @@
-[x] tedt
+[ X ] tedt
 ## Java-excercises
 
 1. Excercises: package with different excercises from hacker rank and other pages.
