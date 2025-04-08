@@ -37,3 +37,5 @@ build/
 *.class
 .idea/jarRepositories.xml
 excercises-java.iml
+/.idea
+excercises-java.iml

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshots" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/ravn-libs-snapshots" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
@@ -10,6 +15,26 @@
       <option name="id" value="aws-snapshot" />
       <option name="name" value="S3 Snapshot Repository" />
       <option name="url" value="s3://clubos-deploy/repo/snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pentaho-nexus-remote" />
+      <option name="name" value="pentaho-nexus-remote" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/pentaho-nexus-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavn.ravn.co.uk" />
+      <option name="name" value="libs-releases" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="msi-milestones" />
+      <option name="name" value="msi-milestones-local" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/ravn-msi-milestones-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1-remote-cache" />
+      <option name="name" value="repo1-remote-cache" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/repo1-remote-cache" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -22,9 +47,19 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central2" />
+      <option name="name" value="libs-releases" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/ravn-libs-releases" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="aws-release" />
       <option name="name" value="S3 Release Repository" />
       <option name="url" value="s3://clubos-deploy/repo/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="msi-releases" />
+      <option name="name" value="msi-releases-local" />
+      <option name="url" value="https://artifactory.imanage.com/artifactory/ravn-msi-releases-local" />
     </remote-repository>
   </component>
 </project>
